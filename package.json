@@ -36,14 +36,6 @@
     "react-router-dom": "^5.0.1",
     "react-svg": "^10.0.19",
     "url-loader": "^2.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Peteryar/reactRenderConditionallyPractice.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Peteryar/reactRenderConditionallyPractice/issues"
-  },
-  "homepage": "https://github.com/Peteryar/reactRenderConditionallyPractice#readme",
-  "description": ""
+  }
+  
 }
